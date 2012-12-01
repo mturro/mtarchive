@@ -1,0 +1,6 @@
+Date: 2007-10-11
+Categories: old
+
+# ! 'Poetweet: short, poetic lines …'
+
+Poetweet: short, poetic lines delivered in less than 140 characters.

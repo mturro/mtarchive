@@ -1,0 +1,39 @@
+Date: 2010-6-11
+Categories: old
+
+# Publishing, iPad and the strategies of self-control.
+
+<div class="Clog_Commentary_Wrap">
+<div class="Clog_Post_Text">
+
+The following clip from Steven Pinker’s op-ed in the 6/11/10 New York Times does a good job of answering concerns that the Internet is having a negative impact on our cognitive function. In the piece, which is worth reading in full, Pinker reminds us that the Internet will only make us stupid if we let it do so.  If we simply give ourselves over to the ebb and flow of the web and bite on every distraction it offers we will most certainly lose ourselves there. However, if we learn to use the Internet as a tool and work to maintain a baseline of “analysis, criticism, and debate” and “develop strategies of self-control” then we can only progress and evolve in a positive direction.
+
+So - how does this relate to publishing? I’ll admit that I have been as vocal as anyone in advocating that publishers update their notions of communication and get into the stream - surrender to the flow. I still think that needs to happen, yet lately I’ve been starting to have something of a change of heart - mostly brought on by Apple, Jobs, and his magical iPad. Since I’ve started using the device to read books, magazines, and long form journalism (thanks Instapaper) I’ve felt something that I have only ever glimpsed in a digital medium - the focusing embrace of narrative. My time on the iPad has shown me that deep reading, introspection, and contemplation can comfortably live - must comfortably live - inside a digital experience.
+
+It was this experience, this eye-opening time spent inside the walled-garden, that made me realize that electronic communication does not dictate, it suggests. We as publishers have a responsibility to provide people with the sorts of digital experiences that they need in order to - in the sense that Pinker suggests - keep themselves cognitively fit. The free, real-time, open web is a beautiful thing and publishers do need to enter the stream, but with most things in life there needs to be balance. iPad, apps, and closed systems may be the yin to the open, real-time yang - the balance that keeps us sane. (As a side note: this isn’t necessarily an app/web open/closed fight. It’s more of a distraction/focus one. Witness the new Safari Reader, based on arc90’s Readability code, that is taking this notion to the web itself - extremely interested in where that goes.)
+
+Of course all this can change tomorrow, but for now I’m starting to see some of the method to Apple’s closed minded madness. There is a space there - an untapped digital space - that savvy publishers (and device manufacturers) would do well to explore.
+
+</div>
+</div>
+<div class="Clog_Content_Outer"><!-- BEGIN_CLOG_CONTENT ID: EE5EAA15-A139-4075-B491-F1365631C78A CLOGS.CLIPMARKS.COM -->
+<div class="Clog_Top_Wrap">
+<div class="Clog_Source_First"><span>Clipped from <a title="http://www.nytimes.com/2010/06/11/opinion/11Pinker.html?ref=todayspaper#" rel="clipsource" href="http://www.nytimes.com/2010/06/11/opinion/11Pinker.html?ref=todayspaper#">www.nytimes.com</a></span></div>
+</div>
+<div class="Clog_Middle_Wrap">
+<blockquote class="Clog_Content_Item" cite="http://www.nytimes.com/2010/06/11/opinion/11Pinker.html?ref=todayspaper#">
+<table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>Yes, the constant arrival of information packets can be distracting or addictive, especially to people with attention deficit disorder. But distraction is not a new phenomenon. The solution is not to bemoan technology but to develop strategies of self-control, as we do with every other temptation in life. Turn off e-mail or Twitter when you work, put away your Blackberry at dinner time, ask your spouse to call you to bed at a designated hour.
+
+And to encourage intellectual depth, don’t rail at PowerPoint or Google. It’s not as if habits of deep reflection, thorough research and rigorous reasoning ever came naturally to people. They must be acquired in special institutions, which we call universities, and maintained with constant upkeep, which we call analysis, criticism and debate. They are not granted by propping a heavy encyclopedia on your lap, nor are they taken away by efficient access to information on the Internet.
+
+<span class="Clog_Source_Button"><a title="http://www.nytimes.com/2010/06/11/opinion/11Pinker.html?ref=todayspaper#" rel="clipsource" href="http://www.nytimes.com/2010/06/11/opinion/11Pinker.html?ref=todayspaper#">Read more at www.nytimes.com</a></span></td>
+</tr>
+</tbody>
+</table>
+</blockquote>
+</div>
+<div class="Clog_Bottom_Wrap"></div>
+</div>

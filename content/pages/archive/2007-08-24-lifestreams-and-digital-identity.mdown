@@ -1,0 +1,14 @@
+Date: 2007-8-24
+Categories: old
+
+# Lifestreams and Digital Identity
+
+<a href="http://www.steverubel.com/">Steve Rubel</a> has been making some noise on Twitter and other places about <a href="http://www.steverubel.com/post/9568126">Lifestreams</a>... a concept that has been trying to find a service for a while now.  I know I picked up on the idea a few months back after reading <a href="http://www.stoweboyd.com/message/2007/02/traffic_and_flo.html">Stowe Boyd's thoughts on Flow</a> (<a href="http://twitter.com/stoweboyd/statuses/225349832">Stowe also recently tweeted this intriguing response to Steve's lifestream tweets</a> - hmm...).
+
+The basic idea is that your lifestream is the stream of data that you generate online through various services like Twitter, Flickr, blogging, del.icio.us etc..  For the most part all of these data streams live in separate worlds, closed off from each other.  There is no way to easily take all of these streams and create from them something approaching an identity.
+
+Unless of course you do what I did with this site... pull everything you do online into one place and make it the entry point for "you" on the internet.  I am even  using the URL  mturro.bluepear.org as my <a href="http://openid.net/">OpenID</a>. For all intents and purposes this site... the url mturro.bluepear.org is me... or digital me at least.
+
+Now Steve is doing the same thing with the URL steverubel.com.  Though he is using the blog service tumblr.com (I'm also playing with what they have there - see: <a href="http://mturro.tumblr.com">mturro.tumblr.com</a>) the concept is pretty much the same.
+
+This is a hot topic right now and I would expect that in the next few months we'll start to see something in the way of a definitive application of the lifestream concept.  Better yet would be the development of something along the lines of Brian Fitzpatrick's <a href="http://bradfitz.com/social-graph-problem/">Thoughts on the Social Graph</a>.

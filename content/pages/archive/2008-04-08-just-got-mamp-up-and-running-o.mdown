@@ -1,0 +1,6 @@
+Date: 2008-4-8
+Categories: old
+
+# Just got MAMP up and running o...
+
+Just got MAMP up and running on my macbook - mirrored my site - local Wordpress sandbox, baby.

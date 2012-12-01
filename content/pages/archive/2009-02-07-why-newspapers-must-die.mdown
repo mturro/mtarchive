@@ -1,0 +1,28 @@
+Date: 2009-2-7
+Categories: old
+
+# Why Newspapers Must Die
+
+<a href="http://www.time.com/time/business/article/0,8599,1877191,00.html">How to Save Your Newspaper</a> - Walter Isaacson's cover story from the 2/16/09 edition of Time Magazine has gotten a lot of traction over the last few days - so I won't bore you with details about it.  However, I will take the time to point out exactly where in the article I think Isaacson goes off the rails - his title.
+
+Simply put, newspapers cannot be saved. They are big bloated, convoluted corporate anachronisms that derive their strength and power from an economic model of news information that is in rapid and steep decline.  These corporate entities were built and grew powerful in an age when new information was remote, precious, scarce, capital.
+
+That age is over.
+
+Today fresh information is immediate, cheap, abundant, available.  News happens and is distributed in real time - worldwide - before lumbering outfits like the New York Times even have a chance to think up a catchy headline.
+
+Certainly folks like Mr. Isaacson like to spin the yarn that their information is the quality information, premium information - and that may even have a grain of truth to it.  Still, news is the at the cheapest end of the information spectrum - it's real value is it's immediacy - the speed with which it gets to market. Quality - aside from accuracy - is not and never really has been a dominant factor in determining the value of news.  Analysis, commentary, insight, have always been more comfortable in the studied format of the magazine or the give and take of radio and television.
+
+The sad fact of the matter is that no combination of revenue - subscription, advertising, micropayment - will ever be enough to sustain the traditional news model.  It's going, going, gone.  As Susan Mernit writes in <a href="http://www.susanmernit.com/blog/2009/02/will-micropayments-save-newspa.html">a post on the same topic</a>:
+<blockquote>...the legacy systems, the ad margins, the physical plants, the leveraged debt--newspaper companies have tons of baggage, that, combined with  shifts over the past 5 years in consumer behavior, are that mill stone around their necks, the 300-lb albatross dragging the shop down.</blockquote>
+That shift in consumer behavior she's talking about there is the real death knell.  Even if newspapers can trim their operations to get rid of that albatross they will still be facing a serious problem - the demand for information (news specifically) as a product will never be significant enough to sustain a business. The energy that drove demand for new information is slowly but surely being siphoned into a new energy that drives the supply of new information - readers are transforming into producers.  I outlined this in more detail in <a href="http://mturro.bluepear.org/2009/01/07/a-commentary-on-hirschorns-end-times/">a recent post here on this blog</a>. Here's a bit from that:
+<blockquote>In a networked world we are connected in real time - events unfold and are witnessed and what was once a journalistic source is now a raw feed. The traditional role of the journalist - to weave these sources, these raw feeds into a coherent story - is quickly becoming an individual civic responsibility.</blockquote>
+Once we accept this fact and realize that we have all along been conflating the welfare of journalism with the welfare of the corporate entities that have traditionally sponsored that work we can begin down the long hard road to the next news model.
+
+In that spirit - and to serve as a bookend to the link at the top of this post - I embed for your viewing pleasure the recent keynote delivered by Douglas Rushkoff to last November's <a href="http://www.ofcom.org.uk/event/">Ofcom Conference</a> in the UK.  Rushkoff's lecture - as well as his upcoming book <a href="http://rushkoff.com/books/life-incorporated/">Life Incorporated</a> - deals with the issue and  history of corporatism. His speech in this video fueled a lot of my thinking in this post and opened my eyes to the ways in which corporate (mass) media entities have profited from the corporatist model and how emerging technologies are contributing to that model's demise.
+
+As emerging technologies and abundant information transform our world we need to be ready to accept the collapse of institutions we once mistook as eternal.  Only in doing so will we be able to capitalize on the transformative push of technology.  Only after we stop talking about saving newspapers and <a href="http://www.scripting.com/stories/2009/02/06/oneMoreTimeOpenTheNewsIndu.html">start talking about a new journalism</a> that organically takes advantage of next generation news gathering and distribution technologies will we begin to see genuine solutions develop.
+
+<object width="540" height="460" data="http://blip.tv/play/goQz3MtMkNwi" type="application/x-shockwave-flash"><param name="src" value="http://blip.tv/play/goQz3MtMkNwi" /><param name="allowfullscreen" value="true" /></object>
+
+<script src="http://s.bit.ly/bitlypreview.js"></script>

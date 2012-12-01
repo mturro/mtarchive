@@ -1,0 +1,6 @@
+Date: 2007-12-10
+Categories: old
+
+# The loop code works... twitter...
+
+The loop code works... twitter tools still buggy in 2.3 so it's posting to the wrong category anyway.

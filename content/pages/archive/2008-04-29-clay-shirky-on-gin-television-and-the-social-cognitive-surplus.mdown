@@ -1,0 +1,10 @@
+Date: 2008-4-29
+Categories: old
+
+# Clay Shirky on Gin, Television and the Social Cognitive Surplus
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="255" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="id" value="showplayer" /><param name="quality" value="best" /><param name="src" value="http://blip.tv/scripts/flash/showplayer.swf?enablejs=true&amp;feedurl=http%3A%2F%2Fweb2expo%2Eblip%2Etv%2Frss&amp;file=http%3A%2F%2Fblip%2Etv%2Frss%2Fflash%2F862384%3Freferrer%3Dblip%2Etv%26source%3D1&amp;showplayerpath=http%3A%2F%2Fblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf" /><embed id="showplayer" type="application/x-shockwave-flash" width="400" height="255" src="http://blip.tv/scripts/flash/showplayer.swf?enablejs=true&amp;feedurl=http%3A%2F%2Fweb2expo%2Eblip%2Etv%2Frss&amp;file=http%3A%2F%2Fblip%2Etv%2Frss%2Fflash%2F862384%3Freferrer%3Dblip%2Etv%26source%3D1&amp;showplayerpath=http%3A%2F%2Fblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf" quality="best"></embed></object>
+
+This is a fairly short, extremely relevant speech given by <a href="http://en.wikipedia.org/wiki/Clay_Shirky">Clay Shirky</a> at the Web 2.0 conference on April 23, 2008.  It's an absolute must view if you want to understand the ongoing shift from passive to active, participatory media.  I also highly recommend Shirky's latest book <a href="http://isbn.nu/9781594201530">Here Comes Everybody</a> for the same reason.  The more I see, hear, and read from Clay the more I am convinced that he is without a doubt one of the most important and inspiring social media and technology thinkers in the world.
+
+If you want like reading instead (or if you just want to thumb your nose at <a href="http://digg.com/gadgets/People_don_t_read_books_says_Steve_Jobs">Steve Jobs</a>) here is the text on <a href="http://www.herecomeseverybody.org/2008/04/looking-for-the-mouse.html">Clay's blog.</a>

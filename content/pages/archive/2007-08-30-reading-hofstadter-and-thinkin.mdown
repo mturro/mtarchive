@@ -1,0 +1,6 @@
+Date: 2007-8-30
+Categories: old
+
+# Reading Hofstadter and thinkin…
+
+Reading Hofstadter and thinking that a loop is a better metaphor than a stream.

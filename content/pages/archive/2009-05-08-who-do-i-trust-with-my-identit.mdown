@@ -1,0 +1,6 @@
+Date: 2009-5-8
+Categories: old
+
+# Who do I trust with my Identit...
+
+Who do I trust with my Identity? Erm, how about me? OpenID Weaves into the browser! <a href="http://bit.ly/19kvju" rel="nofollow">http://bit.ly/19kvju</a>

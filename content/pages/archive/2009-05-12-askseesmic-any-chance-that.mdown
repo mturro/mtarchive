@@ -1,0 +1,6 @@
+Date: 2009-5-12
+Categories: old
+
+# ! '@askseesmic - any chance that ...'
+
+@<a href="http://twitter.com/askseesmic">askseesmic</a> - any chance that ping integration will show up in Seesmic Desktop?

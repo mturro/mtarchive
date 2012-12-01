@@ -1,0 +1,8 @@
+Date: 2008-1-23
+Categories: old
+
+# Chris Messina interviews himself about DiSo
+
+<object type="application/x-shockwave-flash" width="425" height="319" data="http://www.vimeo.com/moogaloop.swf?clip_id=629450&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ff9933">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" />	<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=629450&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=ff9933" /></object><br /><a href="http://www.vimeo.com/629450/l:embed_629450">The Existential DiSo Interview</a> from <a href="http://www.vimeo.com/factoryjoe/l:embed_629450">Chris Messina</a> on <a href="http://vimeo.com/l:embed_629450">Vimeo</a>.
+
+This video, while a bit campy, is a great overview of what I think is one of the most interesting and important projects dealing with identity and portability in the social network space. For more information and to get involved please head over to <a href="http://diso-project.org/">the DiSo project site</a>.

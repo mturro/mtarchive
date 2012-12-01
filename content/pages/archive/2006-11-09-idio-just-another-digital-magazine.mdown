@@ -1,0 +1,14 @@
+Date: 2006-11-9
+Categories: old
+
+# Idio - Just Another Digital Magazine
+
+Ahhh the digital magazine... that misguided, ineffective, awkward attempt to recreate a solid and successful print format in the world of bits and bytes.  So many of us in the industry are falling prey to its seductive possibility... its flash and novelty... its artful reproduction of the "print experience" in digital form.  Page turning... reader spreads... folios... it's all there, just like a real printed magazine.  The only problem is that it's not a real printed magazine and trying to make it one (or feel like one) is a recipe for failure.
+
+Take as an example the recently launched <a href="http://www.idiomag.com">Idio</a>.  On paper (pun intended) this looks like a great idea... the melding of the magazine form with the personalization and intimacy of a social web app.  Idio aims to be "your magazine" and as such it lets you manage your own interests through predefined sliders.  How you set those sliders determines which articles will be culled from Idio's selections and assembled on the fly into a digital magazine.  As Idio's content base grows and as it learns more about you the magazine will increase in its personal relevance.
+
+Now this all sound great... that is until you actually get to the magazine.  Reader spreads.. page turning... folios.  The excitement of being involved in a next generation project to build a truly personalized magazine is lost when this twentieth century digital magazine hits your screen.  Granted, this is a start-up and their heart is in the right place, but this is just not it.  This is not what the magazine world is waiting for... this will save nobody.
+
+I can't help but feel that Idio would be better served by building something that not only seeks to capitalize on web 2.0 hype, but actually takes advantage of the technology that the hype thrives on.  Not doing so, especially in an age when the average reader is extremely used to those technologies being there, just leaves the user feeling short-changed... like they're not seeing everything there is to see.
+
+When it comes right down to it what makes the magazine experience a fulfilling one for readers is not the ability to turn a page, but rather the connection made with the point of view of the magazine.  The artificial replication of the "feel" of a more traditional format is a dangerous distraction from that connection.  The technology behind a publishing format should be invisible... a foundation upon which the content stands.  In the case of digital magazines like Idio it's more like Christmas lights draped across the gutters.

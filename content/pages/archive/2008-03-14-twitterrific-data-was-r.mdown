@@ -1,0 +1,6 @@
+Date: 2008-3-14
+Categories: old
+
+# ! '@twitterrific "Data was r...'
+
+@twitterrific &quot;Data was received from Twitter, but was not the correct type (application/xml).&quot; WTF?

@@ -1,0 +1,14 @@
+Date: 2006-11-21
+Categories: old
+
+# Print, Web… There’s a Difference
+
+While the title of this post seems ridiculously obvious, most magazine editors... especially those who cut their teeth before the Web became what it is today... just don't seem to get it.  Look at almost any popular magazine web site and you will find that the majority of articles are simply "reprinted" from the hard copy without any reconsideration. Very little content is tailored to the web... although that is changing as magazines are starting to blog (albeit in a very structured "print" sort of way).
+
+Personally I have been keenly aware of the effect that any given presentation technology has on the text it presents since I ran across <a href="http://en.wikipedia.org/wiki/Marshall_McLuhan">Marshall McLuhan</a> as an English Lit grad student over a decade ago.  The concept (that print articles and web articles should be written differently) just seems so basic... like the title of the post...  that I find it baffling that magazine editorial teams have taken so long to see it as well.  For ten years we have been forced  to deal  with magazines that have been shoving the square peg of print-centric text into the round hole of digital presentation spaces.  Thankfully it looks like there might be some light at the end of that tunnel.
+
+That light comes in <a href="http://www.technologyreview.comread_article.aspx?id=17708&amp;ch=biztech">this acknowledgment by Technology Review editor Jason Pontin</a>.
+<blockquote>In short, the Internet is a very good medium for economically expressed, timely stories. More, the Web is unapologetically responsive to the market. Online, the posture of editors before readers is slavish: we listen to your demands, or else we (more tangibly, our "audience traffic") are punished.
+
+Yet editors can do more than give readers what they say they want; they can also offer up stories that surprise and delight. In print, editors can be purveyors of serendipity. Such a function may not be wanted in the yawping, demotic marketplace of the Internet. It can seem unacceptably elitist to those who are skeptical about the intelligence, expertise, impartiality, and good sense of what the blogosphere calls the "mainstream media." But there are still many readers who will pay for that old-fashioned virtue, nicety of editorial selection.</blockquote>
+Finally someone sees the blindingly obvious.  Hopefully the path that Technology Review is taking with regard to print-centric text is contagious and we'll start to see magazines living up to their ultimate potential as communities of vibrant debate, comment, and thought.

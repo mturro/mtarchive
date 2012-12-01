@@ -1,0 +1,6 @@
+Date: 2007-10-22
+Categories: old
+
+# just fount the firefox about:c…
+
+just fount the firefox about:config setting that will spell check all fields... that makes twitbin much more useful to me.

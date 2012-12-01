@@ -1,0 +1,6 @@
+Date: 2009-3-20
+Categories: old
+
+# An upgrade to the UBUNTU OS on...
+
+An upgrade to the UBUNTU OS on my server has killed the poor thing - new hardware in the works...

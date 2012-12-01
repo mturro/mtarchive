@@ -1,0 +1,22 @@
+Date: 2006-11-8
+Categories: old
+
+# Starting to Love Last.fm
+
+For a few years I used to run a <a href="http://www.live365.com/">Live365</a> radio station that went by the name of Bluepear Radio.  What drove that station was not only my passion for music, but my need to share what I listened to with friends, family, strangers, the world at large.   It was never about making money or a building a radio station per se... I just wanted to share what I was feeling when I listened to music with everyone I could.  I wanted others to feel the same electricity... vibe on the same frequency I was.
+
+That experiment sadly ended as the financial obligation related to running a Live365 station, although relatively small, began to overtake my willingness to be that dissemination point.  With other things in my life needing my time, energy, and money I had to retreat into a more solipsistic listening mode... my music library would have to once again be just mine.
+
+As you can imagine I still had the itch to share even if I didn't have the time or money to be a station manger.  That itch led me to <a href="http://last.fm">last.fm</a>.  While last.fm wouldn't let me program a stream the same way Live365 would it did let me effortlessly push my listening habits from iTunes to their database where it could be tagged, searched, cross-referenced, compared, and best of all shared.
+
+At first... with little or no data (of mine) in the Last.fm system... I was unimpressed with what they had to offer.  Yet it was free, effortless, social.  I was listening to iTunes for about eight hours a day at work so I figured I'd just let the data pile up... scrobble for a few months and see where it took me.
+
+Recently... <a href="http://www.last.fm/group/Last.fm+News/journal/2006/10/31/257005">announcements of improvements to the site</a> piqued my interest so I decided to revisit and see just where this social music revolution was heading. Well... after months of scrobbling data to last.fm <a href="http://www.bluepear.org/main/index.php/archives/25">my profile there</a> is much more robust.  I have a long list of neighbors (those whose taste in music is similar to mine) and those relations have led to some interesting recommendations... many of which have made significant contributions to my daily listening.  I now find myself listening to last.fm almost as much as  I am listening to my own iTunes library.
+
+As Last.fm is a social site it's value is amplified with each connection you make.  As such I have reached out to some of my neighbors to make them friends and have taken steps to invite real world contacts into the community.  <a href="http://www.bluepear.org/main/index.php/archives/25">Listeners of the old Bluepear Radio</a> can now join last.fm and not only become passive listeners, but actually influence what I play (or listen to) in a way that emailed requests and forum posts could never hope to.
+
+In essence every last.fm "station" is more than just a fixed stream... these stations are fractal growth points that can evolve and mutate organically according to users listening habits.  Tag based radio channels are born every minute and many die just as quickly.  Along the way some interesting associations are made.
+
+A prime example of this is Dead Man Radio.  While doing Bluepear Radio a friend and I had an idea for a theme of music by artists and bands that had died or had members that died.  I never put the list together for a number of reasons, but now with Last.fm I just have to tag artists and songs with the tag "dead man radio" and they will automatically be placed in a channel under that tag name.  Now that stream is a reality and it is making for some interesting combinations (<a href="http://www.last.fm/music/Syd+Barrett">Syd Barrett</a>, <a href="http://www.last.fm/music/John+Coltrane">John Coltrane</a>, <a href="http://www.last.fm/music/Elliott+Smith">Elliott Smith</a>, <a href="http://www.last.fm/music/Jimi+Hendrix">Jimi Hendrix</a>, <a href="http://www.last.fm/music/Morphine">Morphine</a>, and <a href="http://www.last.fm/music/Blind+Melon">Blind Melon</a> are are recent examples). Slowly dead man radio will take on a life of its own.
+
+Although some may consider the mention of love in description of how one feels about a certain type of technology somewhat bizarre, I would have to say that this is more than just technology.  This is technology that is so profoundly entwined with the cultural and human that the mix becomes something entirely new.  And I do love that.

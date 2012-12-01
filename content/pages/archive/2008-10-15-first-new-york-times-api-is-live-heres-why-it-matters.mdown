@@ -1,0 +1,8 @@
+Date: 2008-10-15
+Categories: old
+
+# First New York Times API is Live - Here's Why it Matters
+
+Marshall Kirkpatrick has this brief post on ReadWriteWeb about the New York Times API.  He sees it as a ground breaking step in the transition of established media companies into new modes of operation and I enthusiastically agree with him.  If these organizations are going to thrive in the new world they are going to have to open the windows and let in the light - they are going to have to let outside developers have access to their databases - they are going to have to set their information free.  While there will always be a place for traditionally contextualized content designed for human consumption it's the chunked data, the query ready, application oriented content that will determine the 21st Century publisher's reach.
+
+<a href="http://www.readwriteweb.com/archives/the_first_new_york_times_api_i.php">First New York Times API is Live - Here's Why it Matters</a>

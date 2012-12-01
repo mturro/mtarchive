@@ -1,0 +1,9 @@
+Date: 2007-6-6
+Categories: old
+
+# Cory Doctorow on Internet filtering
+
+<p><a href="http://commentisfree.guardian.co.uk/cory_doctorow/2007/06/see_no_evil.html">This article by Cory Doctorow</a> is a short but sweet take on why Internet filtering is such a dumb idea.  Having to deal with one of these filters during office hours I can personally attest to the fact that they do a really awful job at stopping the malicious and pretty good job at blocking the useful.  As Cory says...
+<blockquote>
+...every filtering enterprise to date is a failure and a disaster, and it's my belief that every filtering effort we will ever field will be no less a failure and a disaster. These systems are failures because they continue to allow the bad stuff through. They're disasters because they block mountains of good stuff. Their proponents acknowledge both these facts, but treat them as secondary to the importance of trying to do something, or being seen to be trying to do something. Secondary to the theatrical and PR value of pretending to be solving the problem.
+</blockquote>

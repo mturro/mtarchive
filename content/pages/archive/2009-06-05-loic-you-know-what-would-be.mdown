@@ -1,0 +1,6 @@
+Date: 2009-6-5
+Categories: old
+
+# ! '@loic - you know what would be...'
+
+@<a href="http://twitter.com/loic">loic</a> - you know what would be really sweet? If Seesmic Desktop would auto-complete user names when I type "@" in a tweet.

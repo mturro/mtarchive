@@ -1,0 +1,10 @@
+Date: 2006-3-17
+Categories: old
+
+# One Click and Gone
+
+Easy come easy go... at least that's the only way to deal with what I just did to this site.  With one simple click I killed over a year's worth of posts.  I was trying to drop a table from the DB and, not really paying much attention to what the fuck I was doing, I inadvertently dropped the entire DB... gone.
+
+I have learned to take things like this in stride... not get too worked up over it.   I look at as a chance to make a fresh start... a symbol of the transience of life, the impermanence of it all.  Nothing gold can stay you know.
+
+So here we are... square1.  Kind of frustrating, kind of liberating, but life moves on, we all move on.  So I best start creating some new stuff.

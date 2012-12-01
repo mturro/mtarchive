@@ -1,0 +1,18 @@
+Date: 2010-1-27
+Categories: old
+
+# ! '@neilperkin on paywalls in publishing and how the right way might look.'
+
+<div class="Clog_Commentary_Wrap"><div class="Clog_Post_Text"><p>This clip from Neil Perkin really underscores a point I was recently trying to make regarding the need for publishers to change more than just the output technology of their offerings.  Simply taking your current publishing process and putting a &#8220;digital&#8221; face on it is a dead end. The entire system needs to be re-imagined not just the last mile.</p></div></div><div class="Clog_Content_Outer"><!-- BEGIN_CLOG_CONTENT ID: reload CLOGS.CLIPMARKS.COM --><div class="Clog_Top_Wrap"><div class="Clog_Source_First"><span>Clipped from <a rel="clipsource"  title="http://neilperkin.typepad.com/only_dead_fish/2010/01/solving-the-paywall-problem.html" href="http://neilperkin.typepad.com/only_dead_fish/2010/01/solving-the-paywall-problem.html">neilperkin.typepad.com</a></span></div></div><div class="Clog_Middle_Wrap"><blockquote class="Clog_Content_Item" cite="http://neilperkin.typepad.com/only_dead_fish/2010/01/solving-the-paywall-problem.html"><table cellpadding="0" cellspacing="0"><tr><td>I&#8217;m not a fan of micropayments for news in its current form. And I don&#8217;t have all the answers (for it will surely be no single solution), but if it was
+up to
+me I&#8217;d be experimenting furiously with how to create some scarcity out
+of the ubiquity. Developing unique, highly targeted or personalised
+services, packages and subscriptions, informed and supported by social
+technology. I&#8217;d add as much value to those services as I could, and I&#8217;d
+make that value as visible as possible so every non-subscriber could see what
+they were missing. I&#8217;d
+experiment with packaging news in ways that offered new levels of
+personalisation so I could <a rel="nofollow" href="http://livingstories.googlelabs.com/">follow stories as they unfolded</a>. And I&#8217;d take a long, hard look at my traditional operational set up. <a rel="nofollow" href="http://www.baekdal.com/articles/management/how-newspaper-can-charge-for-content/">As
+Thomas Baekdal says</a>, the biggest problem might not be how to make more
+money, but instead
+&#8220;how to get rid of all those unnecessary expenses&#8221;.<span class="Clog_Source_Button"><a rel="clipsource"  title="http://neilperkin.typepad.com/only_dead_fish/2010/01/solving-the-paywall-problem.html" href="http://neilperkin.typepad.com/only_dead_fish/2010/01/solving-the-paywall-problem.html">Read more at neilperkin.typepad.com</a></span></td></tr></table></blockquote></div><div class="Clog_Bottom_Wrap">&nbsp;</div></div>

@@ -1,0 +1,6 @@
+Date: 2010-10-19
+Categories: old
+
+# Open Web Applications - the thought alone makes me all happy inside.
+
+<div class="Amp_Content_Outer_Bookmark"><div class="Amp_Bookmark_Link"><a rel="clipsource" target="_blank" title="https://apps.mozillalabs.com/" href="https://apps.mozillalabs.com/">https://apps.mozillalabs.com/</a></div><div></div></div><div class="Amp_Commentary_Wrap"><div class="Amp_Post_Text"><p>Some very interesting stuff from Mozilla Labs. Open, web based applications are a no brainer really–especially when you factor in Apple's relentless control and Android's inevitable fragmentation.</p></div></div><div class="Amp_Link">See this Amp at <a href="http://bit.ly/cQQwnV">http://bit.ly/cQQwnV</a></div><br/>

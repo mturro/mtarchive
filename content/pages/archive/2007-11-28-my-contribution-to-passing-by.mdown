@@ -1,0 +1,7 @@
+Date: 2007-11-28
+Categories: old
+
+# My Contribution To Passing By
+
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/bmHYCIy_tQU&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/bmHYCIy_tQU&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></p>
+The above video is my first contribution to the collaborative "film" <a href="http://passingby.net">Passing By</a>.  If you're not familiar with the project, the idea is simple: shoot some video out of the window of a moving vehicle (a train in my case) and upload it to YouTube with the right tags and presto... you are part of the fun.  Sitting back and watching the landscapes of the world pass by is mesmerizing... even more so when listening to your favorite playlist.

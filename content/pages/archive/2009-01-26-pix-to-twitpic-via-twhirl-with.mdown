@@ -1,0 +1,6 @@
+Date: 2009-1-26
+Categories: old
+
+# Pix to twitpic via twhirl with...
+
+Pix to twitpic via twhirl with ping.fm on - ping.fm tranlates the url to a ping.fm url everywhere but twitter (which uses the twitpic url).

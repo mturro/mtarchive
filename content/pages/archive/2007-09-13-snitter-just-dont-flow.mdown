@@ -1,0 +1,10 @@
+Date: 2007-9-13
+Categories: old
+
+# Snitter Just Don’t Flow
+
+I momentarily tried the Twitter client <a href="http://snook.ca/snitter/">Snitter</a> today.  For those of you who are not familiar with twitter, shame: go now[<a href="http://twitter.com">http://twitter.com</a>.]  I was kind of pulled in to trying it by a few different <a href="http://avc.blogs.com/a_vc/2007/09/air.html">posts</a>, but the one that got me was <a href="http://twitter.com/stoweboyd/statuses/266236932">Stowe Boyd's tweet</a> that he was dumping <a href="http://iconfactory.com/software/twitterrific">Twitterific</a> - the app I have been using.  I like his ideas on flow and am always willing to follow his lead...  AND <em>I am</em> kind of interested in playing with <a href="http://labs.adobe.com/technologies/air/">Adobe's AIR</a> - so I jumped in.
+
+Anyway, I like it... it's great how you can easily direct tweet people and I love how it gives both real and screen names of the people you follow, but (and this surprises me a bit) it just doesn't flow for me.  My problem is actually more with AIR than Snitter though.  I like to keep Twitterific running hidden and let <a href="http://growl.info/">Growl</a> or the menubar tell me when new tweets are in.  AIR can't integrate with Growl so I was kind of lost and found myself having to manually check Snitter rather than tweets just flowing to me like with Twitterific.
+
+So while Stowe may be saying goodbye to Twitterific, I think I'll stay put... at least until AIR gets some Growl integration going.

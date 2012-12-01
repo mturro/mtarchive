@@ -1,0 +1,16 @@
+Date: 2008-9-13
+Categories: old
+
+# Julian Bleeker on Design
+
+One of the questions that I wrestle with is the question of design - what it is, what it means, what place does it have in an increasingly engineered and technical data-centric atmosphere?  For me and my main area of interest - the evolution of the magazine and magazine publishing - this is a particularly interesting series of questions.  If the current upheaval in print media is anything it is indeed a revolution in design and the necessary design thinking that accompanies it.
+
+In the following video Julian Bleeker - design researcher in Nokia's Design Strategic Projects Studio and co-founder with Nicolas Nova of the Near Future Laboratory - explores these questions and how it's crucial for the modern designer to understand how design is implemented.
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="437" height="370" id="viddler"><param name="movie" value="http://www.viddler.com/player/e8ee246/" /><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="wmode" value="transparent"/><embed src="http://www.viddler.com/player/e8ee246/" width="437" height="370" type="application/x-shockwave-flash" allowScriptAccess="always" allowFullScreen="true" wmode="transparent" name="viddler" ></embed></object>
+
+<a href="http://www.nearfuturelaboratory.com/">http://www.nearfuturelaboratory.com/</a>
+
+<a href="http://en.wikipedia.org/wiki/Julian_Bleecker">http://en.wikipedia.org/wiki/Julian_Bleecker</a>
+
+<a href="http://www.techkwondo.com/">http://www.techkwondo.com/</a>

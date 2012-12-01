@@ -1,0 +1,14 @@
+Date: 2007-7-26
+Categories: old
+
+# Initial thoughts on using LibraryThing
+
+I have avoided diving into tracking my reading habits because I have dreaded the idea of manually adding the books I have read and am reading into a web interface.  After all the beauty of <a href="http://www.last.fm/user/mturro">Last.fm</a> for me was the fact that it took my iTunes data and just cataloged it... no need for me to do anything other than install the plugin.
+
+Still, the urge to bring my reading list into the world of digital me was strong and I guess my experience with <a href="http://www.netflix.com">Netflix</a> kind of convinced me that there was a way to mine this information... if not automatically at least easily.  So I tried a  few different things... some Facebook apps, but that kept all the info locked in Facebook... a site called <a href="http://www.anobii.com/people/mturro/">aNobii</a> works well enough but is kind of spare.
+
+Then I read <a href="http://www.hyperorg.com/blogger/mtarchive/tagmashes_from_librarything.html">this post by David Weinberger</a> about LibraryThing and their use of tags and mashing and all the good stuff David talks about in his excellent book <a href="http://www.everythingismiscellaneous.com/">Everything is Miscellaneous</a>.  I headed directly to <a href="http://www.librarything.com/">LibraryThing.com</a> and got my account going and in no time I had a library filled with stuff I've read without ever having to look through any kind of physical library.  I simply start entering things from memory and LibraryThing tagging system brings up all kind of links based on how other readers have tagged those books.  In a big chain of relational memory I find not only distant parts of myself in books I have read and long since filed in the back of my brain, but I find a network of readers who, through tagging and such, have been able to create something approaching a conversation.
+
+Simply put, the LibraryThing is everything that is good about social sites.  It lets me easily and quickly create data regarding my reading habits and then share that data with anyone.  Sure it's a bit slow and it may just stop for a few minutes here and there, but it's ad-free and claims right on top that it is still in beta so I can excuse this.
+
+The next step for me... aside from populating my library... will be to come up with an interesting way to splice all that data into this site.  Not sure exactly what form that will take, but I know it will be fun to figure out.  Until then check out my LibraryThing profile at <a href="http://www.librarything.com/profile/mturro">http://www.librarything.com/profile/mturro</a>.

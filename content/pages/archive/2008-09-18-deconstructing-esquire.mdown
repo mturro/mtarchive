@@ -1,0 +1,20 @@
+Date: 2008-9-18
+Categories: old
+
+# Deconstructing Esquire
+
+<a title="View 'Esquire's E-Ink cover deconstructed' on Flickr.com" href="http://www.flickr.com/photos/10553544@N00/2868632254"><img src="http://farm4.static.flickr.com/3078/2868632254_bf97d7f84c.jpg" border="0" alt="Esquire's E-Ink cover deconstructed" width="455" /></a>
+
+So Esquire's big cover is kind of silly, perhaps a bit simplistic, and underwhelmingly lackluster. The implementation of the technology glares with a vulgarity that forbids any sort of design coherence with the sophisticated, evolved feel of ink on paper in the body of the book. It's incessant blinking recalls the worst elements of mid-nineties web design.  The almost comical grafting of the technology onto the existing manufacturing process - the scotch taping of the circuit board, the bulky foam padding, the cheap velum overlays - work best as curious historical artifacts. Yet the cover is indeed groundbreaking.
+
+It's no secret that corporate media mishandled the Internet.  Sure they built sites and trumpeted homepages, but they never really understood, never actually stopped to listen to the culture that the web ran on... they never even realized they had to.  To traditional print media, the web was just another output... another way to spread whatever content they had.  They were totally blindsided by the transformation of the passive reader into the active user.
+
+Now the old school is getting a second chance. Each day the web becomes less like a destination and more like an atmosphere. As the web slowly moves away from the desktop and starts to recede into daily life an opportunity re-presents itself - in the reactivation of the passive mode lies the opportunity to reclaim the reader.  The user walks away from the workstation - away from the browser - and picks up the device.  Like the magazine or the paper before it, the device travels. In the briefcase or purse or under the arm, the device feels like paper.  In a very real way the device re-activates passive modes that - while resting on the patterns of centuries - are natural.
+
+Certainly E-Ink is not the complete face of the future.  In fact, at this point it's commercial viability is really only a faint possibility.  Still, it is at the very least a way forward.  For the first time in this digital upheaval traditional publishers are faced with an emerging technology that does not require a complete and utter renovation of current workflow. This is something that does not require a drastic change in their world view.  This is something new that actually makes sense.  (This, oddly enough, is also a potential source of failure.)
+
+Without a doubt serious questions remain.  E-Ink is a long way from the kind of penetration that would constitute good news for print based publishers.  Color is still not an option.  Form factor and price points have yet to be refined to the point where e-ink style devices would be widely available and desirable. And most importantly, there is a very real possibility that the traditional publishing model fails long before any of these concerns are addressed.
+
+Ultimately though, Esquire has done a god deed for the industry here.  In raising the awareness of e-ink not only among the traditional magazine set, but among the digerati, they have kept traditional media on the map. With this ugly, bulky, unimaginative use of an emerging technology they have engaged a new medium that actually highlights the old guard's core competency.  This blinking image is a beacon - a signpost pointing to a possible future that may be distant and dim, but is visible to the astute observer.
+
+<script src="http://s.bit.ly/bitlypreview.js"></script>

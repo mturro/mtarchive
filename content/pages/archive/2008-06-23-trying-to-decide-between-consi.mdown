@@ -1,0 +1,6 @@
+Date: 2008-6-23
+Categories: old
+
+# Trying to decide between consi...
+
+Trying to decide between consistency and flexibility.

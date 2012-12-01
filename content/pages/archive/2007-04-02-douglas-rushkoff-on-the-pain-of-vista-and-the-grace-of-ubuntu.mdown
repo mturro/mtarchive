@@ -1,0 +1,10 @@
+Date: 2007-4-2
+Categories: old
+
+# Douglas Rushkoff on the pain of Vista and the grace of Ubuntu
+
+While I can't speak fist hand to the mess of idiocy that is Microsoft's new OS - VISTA - <a href="http://www.rushkoff.com/2007/04/vista-sucks-linux-wins.php">this post</a> by one of my favorite writers drives the point home clearly enough.  In fact Douglas Rushkoff's "Vista Sucks; Linux Wins" is so much more than just another jump on Microsoft rant... it is a clear and cogent account of just why Vista sucks and how Linux in general and <a href="http://www.ubuntu.com/">Ubuntu</a> in particular will soon be displacing the once dominant giant of Redmond. Witness:
+
+<blockquote>Working in Linux reminds you that your computer is just one drive in a network. That getting your machine to do something new really just means grabbing a few lines of code from someone who has tried it before. It means working in a collaborative space where productivity and creativity are more important than protecting a movie studio's futile efforts at maintaining control-by-force over the digital media it releases. </blockquote>
+
+It sort of makes you wonder just how the hell Microsoft was able to conquer so many desktops with their head so far up their ass.  I guess they just got lucky in that their short-sighted, stunted vision of the what technology is was well-suited to the particular mix of naivety and ignorance that permeated most late 20th century IT departments.

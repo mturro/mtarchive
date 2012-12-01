@@ -1,0 +1,31 @@
+Date: 2009-3-22
+Categories: old
+
+# ! 'The Death of Display: Thoughts on "Why Advertising Is Failing On The Internet"'
+
+<p>Wharton Professor Eric Clemons stepped in it today. <a href="http://www.techcrunch.com/2009/03/22/why-advertising-is-failing-on-the-internet/">His guest post over at TechCrunch</a>  is generating both a good deal of buzz and an evil swirl of vitriol. Comment activity on the post is bustling and not everyone is happy to hear what the good professor has to say. It's a shame really - he's onto something extremely relevant and profoundly important for publishing and the development of brands on the Internet.
+
+It seems to me that <a href="http://tinycomb.com/2009/03/22/when-wharton-professors-dont-know-jack/">Professor Clemons' detractors</a> are primarily coming at this from a post web, late digital perspective. They don't seem to have the broader experience with advertising in traditional media that might give them a fuller understanding of display's ability to generate extraordinary, mansion building, yacht buying revenue for publishers.  Or perhaps they are so vested in the display model that they have a difficult time in admitting that it's failing. Either way there is a frightening amount of blindness (either unconscious or willful) to the plummeting value of traditional display advertising.  
+
+The main point of the Clemons piece - that the Internet is neutralizing the ability of traditional advertising methods to control brand message (thereby destroying its real value - leading to its failure) - is a valid point that is easily supported by simple, economic fact. Opponents of this thesis need only take a good, long, careful look at the situation in which print media now finds itself. 
+
+Ad dollars are draining from magazines and newspapers - you would have to be deaf, dumb, and blind to not have come across the "print is dead" meme. The accepted reasons why are simple. Money spent on the internet provides more in terms of ROI, analytics, and measured response (it's easy for brands to see their ad budget at work) - AND - the web lets brands capitalize on purchase intention by displaying advertising messages directly to consumer's in active search mode.
+
+Still, to maintain that this shift is not an indication of the declining value of display (print's only form of advertising) - to attribute this exodus solely to money finding better, more efficient media - is  to commit an act of horribly simplistic and dangerously superficial analysis.  In fact it's an analysis that would seem to refute the "print is dead" meme entirely (a particular problem for those who are arguing both that print is dead AND a display based model can work on the Internet).  
+
+If advertising in it's traditional format (display) is alive and well then these magazines and newspapers should be able to transition to digital formats without missing a beat.  They haven't - they can't.  There is just no way to sustain their traditional business on the stunted margins the web generates - ask any print publisher.
+
+That depletion of digital ad revenue compared to its print counterpart is easily chalked up to greatly expanded competition and a glut of available inventory pushing prices down.  In short - supply overpowering demand leading to a devaluation of traditional display based advertising.  
+
+Now, I ask those of you who find Professor Clemons' piece to be something short of wise - doesn't the fact that the price of display is in free-fall indicate that display advertising is in crisis? Isn't this crisis fairly described as the failing of traditional display advertising - the failing of advertising as it was originally conceived? As the price of display based advertising falls isn't the resulting influx of budget conscious, mom and pop ad content going to muddle the signal to noise ratio progressively limiting display's effectiveness and further driving down price? Doesn't that scenario indicate a potential death spiral for display? 
+
+I think the emerging trend of premium brands moving an increasingly significant percentage of spend away from display and banners and into more considered campaigns - campaigns that realize the value of trust - begins to answer those questions.  Premium brands know they have to go beyond talking at their customers and start talking with them - the web demands it and publishers who can deliver that type of innovative program will thrive.  
+
+Certainly display based advertising is not dead yet. In fact it could live on forever in some crippled way. Print display will continue to be a small piece of the puzzle and outfits like TechCrunch can and will make a go of it - for now - because they entered the fray at a certain price point.  To them - and most other web native publishers - the value of display based advertising isn't a problem.  They've built their business around that price - their operations are tailored to it.  
+
+Still, with inventory growing exponentially and effectiveness being diluted by the network chatter, it's a pretty good bet that the value of display continues to crash. With this in mind any publisher relying on display advertising revenue for their continued existence should be actively - fervently - looking for other avenues of growth. 
+
+To the extent that they're not is attributable to their relative youth. TechCrunch and <a href="http://tinycomb.com/2009/03/22/when-wharton-professors-dont-know-jack/">other web first publishers</a> are young enough to not feel the free-fall - they don't have the perspective of more mature ventures. They toil away on the net - their own digital <a href="http://en.wikipedia.org/wiki/Flatland">Flatland </a>- feeling safe and sound and shrugging off the possibility that this outlandish notion of some inky Spaceland holds any significance for their world.
+
+--
+<strong>UPDATE 3/23/09 @ 12:22pm:</strong> For a more statistical analysis of what I've written above see <a href="http://adage.com/article?article_id=135440">this AdAge piece by Bob Garfield</a> - miraculously published just one day after my rant and Professor Clemons' TechCrunch post.

@@ -1,0 +1,43 @@
+Date: 2009-10-16
+Categories: old
+
+# If you want to tell a story you have to know the code.
+
+<div class="Clog_Commentary_Wrap">
+<div class="Clog_Post_Text">
+
+The following clip from an interview Samir Husni did with Bob Guccione Jr. betrays a what I see as a key blind spot in the the contemporary journalistic field of vision - a notion that story telling is somehow a non-technical act.
+
+If I had to guess I’d say that this notion is fed by these journalists coming of age in a time when the dominant tools of their trade - the technology that drove their stories for centuries - was fundamentally invisible.  This invisibility mislead them into thinking that the art of story telling was somehow a ethereal act of creation - as mysterious and graceful as human existence - something that spewed forth from the muse - natural, organic, and clean.  This mistaken assumption makes me think of <a href="http://www.arthurmag.com/2009/10/12/net-effects">a recent essay by Douglas Rushkoff</a> in which he writes:
+<blockquote>Like those failed media renaissances before this one, we remain one step behind the capability actually being offered us. Only an elite—sometimes a new elite, but an elite nonetheless—gain the ability to fully exploit the new medium on offer. The rest learn to be satisfied with gaining the ability offered by the last new medium. The people hear while the rabbis read; the people read while those with access to the printing press write; we write, while our techno-elite program. As a result, a majority of people remain one dimensional leap of awareness and capability behind those who manage to monopolize access to the real power of any media age.</blockquote>
+What’s happening in journalism today is that the journalists are being overrun by a wave of technology that is bringing the unwashed majority into what was once a formerly elite world. The ability to write - a level of technical competence that was at one time the ace tool in the journalist’s tool kit - is slowly becoming a widely distributed skill.
+
+Still, elite story telling survives. Surfing that wave is the new breed - programmers building worlds with profound and powerful new tools. Without a doubt we are at the very beginning of the shift, but one thing is already crystal clear - if you’re concern is “seeking truth and telling the story” you will have to know how to code.
+
+</div>
+</div>
+<div class="Clog_Content_Outer"><!-- BEGIN_CLOG_CONTENT ID: reload CLOGS.CLIPMARKS.COM -->
+<div class="Clog_Top_Wrap">
+<div class="Clog_Source_First"><span>Clipped from <a title="http://mrmagazine.wordpress.com/2009/10/16/bob-guccione-jr-on-journalism-the-future-innovation-newspapers-and-the-return-of-creativity-in-the-magazine-world-the-mr-magazine%e2%84%a2-interview/" rel="clipsource" href="http://mrmagazine.wordpress.com/2009/10/16/bob-guccione-jr-on-journalism-the-future-innovation-newspapers-and-the-return-of-creativity-in-the-magazine-world-the-mr-magazine%e2%84%a2-interview/">mrmagazine.wordpress.com</a></span></div>
+</div>
+<div class="Clog_Middle_Wrap">
+<blockquote class="Clog_Content_Item" cite="http://mrmagazine.wordpress.com/2009/10/16/bob-guccione-jr-on-journalism-the-future-innovation-newspapers-and-the-return-of-creativity-in-the-magazine-world-the-mr-magazine%e2%84%a2-interview/">
+<table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><strong>SH: Sometimes we as educators, we get lost in this technological dilemma. When you and I went to journalism schools, nobody taught us how to type. Nobody taught us how to make paper. Nobody taught us how to make ink. Do we teach the technology? Do we teach how to develop a website? Is that journalism or is seeking truth and telling the story more important than the delivery or the channel, as you said?</strong>
+BG: I would absolutely say the answer is no. They must be taught to tell true stories well.
+
+<strong>
+
+SH: That’s the biggest thing going on in journalism schools now. What do we teach?</strong>
+BG: It’s bullshit. I hate to say bullshit, but it is to say journalism departments are lost. Everybody is confused by this giant wave out at sea that looks like a tsunami that’s going to crush you. I say it’s not. I say it’s a fantastic energy that is going to nourish us, fuel us to do better jobs. It’s not going to hurt us. We should learn to harness the portion of energy we can use and need to use.
+
+<span class="Clog_Source_Button"><a title="http://mrmagazine.wordpress.com/2009/10/16/bob-guccione-jr-on-journalism-the-future-innovation-newspapers-and-the-return-of-creativity-in-the-magazine-world-the-mr-magazine%e2%84%a2-interview/" rel="clipsource" href="http://mrmagazine.wordpress.com/2009/10/16/bob-guccione-jr-on-journalism-the-future-innovation-newspapers-and-the-return-of-creativity-in-the-magazine-world-the-mr-magazine%e2%84%a2-interview/">Read more at mrmagazine.wordpress.com</a></span></td>
+</tr>
+</tbody>
+</table>
+</blockquote>
+</div>
+<div class="Clog_Bottom_Wrap"></div>
+</div>

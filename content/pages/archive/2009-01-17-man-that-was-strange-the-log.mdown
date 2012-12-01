@@ -1,0 +1,6 @@
+Date: 2009-1-17
+Categories: old
+
+# man that was strange - the log...
+
+man that was strange - the login window for twitter (via Ubiquity) was invisible - had to use expose to see it.

@@ -1,0 +1,6 @@
+Date: 2008-4-8
+Categories: old
+
+# ! '@twhirl "whirl does not k...'
+
+@twhirl &quot;whirl does not know the concept of a &quot;selected&quot; or active tweet&quot; - AIR limitation? future implementation?

@@ -1,0 +1,12 @@
+Date: 2006-11-6
+Categories: old
+
+# Hemingway is Simplicity
+
+The title of this  post is true... on two levels.  Yes <a href="http://en.wikipedia.org/wiki/Ernest_Hemingway">Ernest Hemingway</a> is the master of simplicity in literature and his writing has inspired me on more than one occasion (I must confess... I am and ex English Lit Grad Student).  However, that is not the <a href="http://warpspire.com/hemingway">Hemingway</a> I intend to praise here today.  Instead I wish to heap some praise on <a href="http://warpspire.com/hemingway">Hemingway</a> the Wordpress theme.  This example of the clean and simple organization of data has saved me.  You see I have been wrestling with the development of my own themes for this site and in doing so I have lost sight of one simple fact... I am not a code poet.
+
+Sure I can hack together some interesting bits of PHP, and I certainly have learned a lot by mucking around with the guts of this site (and as such I will continue to do so), but I found that I need a place to cleanly and simply express my thoughts through words... and <a href="http://warpspire.com/hemingway">Hemingway</a> has provided that.
+
+I'm just starting to learn the ins and outs of the theme, but I knew as soon as I saw it that it was exactly the skeleton I was looking for.  It totally breaks from the old stand-by center-column and right-sidebar approach of the majority of WP themes... something I have been trying to do with my own work only to be met at every turn with validation, browser and loading issues.  That's a great learning experience... but it's also a mindfogger.
+
+So now I am just going to concentrate a bit more on the words that people read and a little less on the letters that machines do and hopefully start making more headway on converting my inner dialogue to some sort of coherent personal and professional philosophy.  Good luck to me.

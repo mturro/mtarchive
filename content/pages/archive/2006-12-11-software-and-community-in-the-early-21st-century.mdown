@@ -1,0 +1,7 @@
+Date: 2006-12-11
+Categories: old
+
+# Software and Community in the Early 21st Century
+
+[coolplayer]http://www.youtube.com/watch?v=NorfgQlEJv8[/coolplayer]
+Have an hour to kill?  Want to get a good take on where software is going in the twenty-first century?  Then watch this meaty keynote by <a href="http://en.wikipedia.org/wiki/Eben_Moglen">Eben Moglen</a> from the most recent <a href="http://2006.plone.org/ploneconf/index.php/Plone_Conference_2006:About">Plone Conference</a>.  It's a brilliant assessment of free software's role as a profound social and cultural force that is killing off the industrial paradigm... and Microsoft with it.

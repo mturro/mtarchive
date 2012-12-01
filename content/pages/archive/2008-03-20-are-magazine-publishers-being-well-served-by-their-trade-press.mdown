@@ -1,0 +1,14 @@
+Date: 2008-3-20
+Categories: old
+
+# Are magazine publishers being well served by their trade press?
+
+I read an article today that got me a bit peeved.  The story - <a href="http://www.pubexec.com/story/story_singlepg.bsp?sid=92809&amp;var=story">Profitable Web 2.0 Tactics</a> - was the cover story for the March 2008 issue of the trade magazine Publishing Executive.  In the interest of stirring debate I left a comment on the mag's site and as of this posting it was under review.  Hopefully they'll post it, but if there is some sort of technical glitch or if they find it objectionable for some reason I have decided to post it here as well.  So here it is:
+
+-
+
+So what exactly is it about NewBay's approach that could be seen as being even remotely "Web 2.0"?  Seems to me like everything they're doing is straight out of a playbook written in 1998.  In reading this article it would seem to me that PubExec has no clue as to what "web 2.0" even is.  Granted it is a rather cloudy concept to begin with, but that does not excuse you from having to be  somewhere in the ballpark... especially if you're going to run it on your cover.  
+
+What would be a story worthy of your headline (and cover) would be if NewBay was opening up their data via some kind of API, giving some control over how it gets shaped to users, letting their readers mash it with other services to create something entirely new.  THAT would be closer to the "web 2.0" ethos.  Or if they DID utilize the existing social frameworks to complement their own offerings (hello YouTube API) rather than trying to reinvent the wheel. THAT would be closer to the "web 2.0" ethos.  Or if they used that information about their readers to introduce them to each other, to start conversations.  THAT would be closer to the "web 2.0" ethos.
+
+At the end of the day those of us that love magazines, that want to see them thrive on the web beyond v.2.0 need to start thinking about this stuff a bit more critically. Publishers need more from you guys than regurgitated buzwords... they need inspiration and ideas.

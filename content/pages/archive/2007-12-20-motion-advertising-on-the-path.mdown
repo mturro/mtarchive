@@ -1,0 +1,7 @@
+Date: 2007-12-20
+Categories: old
+
+# Motion Advertising on the PATH
+
+<object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/QQtooNTgPKo"> </param> <embed src="http://www.youtube.com/v/QQtooNTgPKo" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object></p>
+This short clip is my second contribution to the collaborative web film project <a href="http://passingby.net">Passing By</a>.  It is taken from the PATH train that links Hoboken and Manhattan and focuses on the everybody's favorite: the motion advertising on the tunnel wall between the 14th and 23rd street stations.

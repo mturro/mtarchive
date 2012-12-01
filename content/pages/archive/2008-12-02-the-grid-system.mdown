@@ -1,0 +1,12 @@
+Date: 2008-12-2
+Categories: old
+
+# The Grid System
+
+<p>Created by Antonio Carusone, graphic designer and author of the design and typography blog AisleOne, <a href="http://www.thegridsystem.org/">The Grid System</a> is a new feed in my daily reading list. The designers amongst you will probably guess what this site is about, but for the uninitiated the grid is a foundational method of design that provides structure for page based layout.  It has been a staple in print design for quite a while and has more recently become a primary component of digital based design as well.  So if you are into nice, clean, coherent, intuitive design - and you get all weak in the knees when you hear people speak of the golden ratio and you can't understand why Helvetica didn't win Best Picture - then this site is for you.</p>
+
+Bonus Links:<br/>
+<a href="http://www.aisleone.net/">http://www.aisleone.net/</a><br/>
+<a href="http://en.wikipedia.org/wiki/Golden_ratio">http://en.wikipedia.org/wiki/Golden_ratio</a><br/>
+<a href="http://www.helveticafilm.com/">http://www.helveticafilm.com/</a>
+

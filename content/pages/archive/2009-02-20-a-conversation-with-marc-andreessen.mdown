@@ -1,0 +1,21 @@
+Date: 2009-2-20
+Categories: old
+
+# A conversation with Marc Andreessen
+
+<p>This kept me up past my bed time last night. All in all a pretty good conversation between Marc Andreessen and Charlie Rose - although Andreessen tends to come off as a bit manic (if not maniacal) and Rose a bit presumptive.  
+
+The one part that sticks with me - where I feel that Andreessen let old charlie off the hook - was his not standing up to Rose's insinuation that the ubiquity of laptops in the teen lifestyle somehow was a hinderance to quality face to face social interaction.  
+
+He could have pointed out that most kids are not substituting online time for face to face time, but rather for time spent veggin' out in front of the TV. 
+
+He could have pointed out that the online social activity teens engage in will more often than not enhance and complement their offline interactions. 
+
+Or he could have simply stated that if Rose was truly concerned for the quality of the teen experience in social networks he might want to take a look at <a href="http://www.danah.org/papers/TakenOutOfContext.pdf">danah boyd's recent dissertation work</a>.  
+
+Instead he just shrugged his shoulders and let the old man have the moment.  Oh well. (To be fair to Marc - before Rose brought up the loss of face to face contact he did point out how computers make kids more educated, self aware, and world wise.)
+
+Nevertheless it's a good hour or so of discussion and well worth your time so...
+
+<embed allowFullScreen="true" allowScriptAccess="always" src="http://video.google.com/googleplayer.swf?showShareButtons=true&amp;docId=-4837435862114260403%3A112000%3A3249000&amp;hl=en" style="width:400px;height:326px" type="application/x-shockwave-flash"></embed>
+

@@ -1,0 +1,41 @@
+Date: 2009-1-14
+Categories: old
+
+# DiSO Dashboard Inspires an Open Plea
+
+<a href="http://blog.broadbandmechanics.com/2009/01/diso-dashboard-outline-proposal">Marc’s Voice » DiSO Dashboard Outline proposal</a> - It amazes me that to this point there has been no significant movement from the magazine publishing world (perhaps in the form of the Magazine Publishers of America or IDEAlliance?) to get behind the kinds of technologies that Marc Canter is on about in this post (really, he's on about it everywhere).  While there has been a fair amount of talk around tech like Facebook - and social networking in general - it seems to me that not many in the industry have fully grasped the real killer app in the social space - openness.
+
+What publishers (<a href="http://www.foliomag.com/2008/year-and-half-social-networks-will-be-gone">and industry insiders</a>) have grasped is a sense that something is wrong. It's clear that publishers have dropped the ball in terms of extending the inherent social qualities of magazines into meaningful online social networks. The few titles that are attempting to do social tech are simply scratching the surface and not implementing anything that feels even remotely close to the warmth of connection one can potentially feel through Facebook. Print magazines just don't understand digital social interaction.
+
+Still, as bad as the situation seems, there is always hope. Concepts such as Distributed Social Networking (DiSO), the Open Web, and Data Portability - and the tech it inspires (Facebook Connect, Google's Open Social, OpenID, etc.) - could be something of a godsend for publishers struggling to understand and capitalize on the digital social space.
+
+Imagine a day when a reader - coming to your site because your are a trusted source of high quality editorial content that resonates deeply with them - can give you more than just an email.  Imagine that reader giving you the key to their entire social life.  You can instantly connect them to their friends already on site - direct them to highly relevant content - give them a valuable contextual relationship from the outset.  All they had to do was fill in a field and click a button - all they ask for in return is what you have always given them: respect and quality content.
+
+If it hasn't already become crystal clear - the value to you the publisher in this scenario - aside from not having to reinvent the wheel - is the data.  With this kind of tech you are (potentially) getting a complete picture of you readers - a level of understanding and engagement that has never been possible under the traditional publishing model.  With registration and authorization you can instantly see who they are, where they live, who they're friends with, what they drink, what they eat, where they shop, what they think, what they love, what they hate - the sort of data that takes loads of research, time, and money to collect today. The sort of data your advertising partners love to see.
+
+All you have to do to get there (apart from nurturing the current trusted relationship between your editorial and your readership) is deploy the Open Stack, or the Open Mesh, or DiSO or whatever name the tech finally lands on.  The problem is that these things don't really exist... yet.  Work is being done, meetings are being held, notes are being taken, presentations are being mused over, prototypes are being built, arguments are bubbling up, issues are being discussed, vernacular is being debated, concepts are being evangelized, ideas are being pursued and the future is being forged.  It would be a shame to let all this magic happen without input, investigation or interpretation from our industry.
+
+So, here's my plea - an open plea to the MPA or IDEAlliance or whatever other industry group will listen - put somebody on this issue!  Form a committee, a panel, a discussion group, hire an evangelist, go to a meeting, whatever - just get a body in this game.
+
+<strong>Bonus Links</strong>
+
+<a href="http://www.magazine.org">The Magazine Publishers of America</a>
+
+<a href="http://www.idealliance.org/">The IDEAlliance</a>
+
+<a href="http://developer.yahoo.net/blog/archives/2008/12/the_open_stack.html">The Open Stack</a>
+
+<a href="http://codinginparadise.org/weblog/2008/04/whats-open-web-and-why-is-it-important.html">The Open Web</a><a href="http://code.google.com/apis/opensocial/"></a>
+
+<a href="http://code.google.com/apis/opensocial/">Open Social</a>
+
+<a href="http://developers.facebook.com/connect.php">Facebook Connect</a>
+
+<a href="http://developer.myspace.com/community/myspace/dataavailability.aspx">MySpaceID</a>
+
+<a href="http://diso-project.org/">DiSO</a>
+
+<a href="http://www.dataportability.org/">Data Portability</a>
+
+<a href="http://openid.net/">OpenID</a>
+

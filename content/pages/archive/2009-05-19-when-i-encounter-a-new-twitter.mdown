@@ -1,0 +1,6 @@
+Date: 2009-5-19
+Categories: old
+
+# When I encounter a new twitter...
+
+When I encounter a new twitter app that does not use oauth (say, @<a href="http://twitter.com/twitmatic">twitmatic</a> ) I tend to disengage.

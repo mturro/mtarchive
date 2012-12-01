@@ -1,0 +1,6 @@
+Date: 2007-12-10
+Categories: old
+
+# Testing to see if I have confi...
+
+Testing to see if I have configured my Wordpress loop to correctly exclude tweets yet still include them as posts in the DB.

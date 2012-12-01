@@ -1,0 +1,6 @@
+Date: 2008-4-23
+Categories: old
+
+# ! 'Something interesting: clicked...'
+
+Something interesting: clicked links in AIR apps don't open with Camino 1.6  as default browser; OS X - 10.5.2 Macbook 2GHz.

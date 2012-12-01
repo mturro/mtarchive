@@ -1,0 +1,39 @@
+Date: 2009-10-1
+Categories: old
+
+# A post by @steverubel helps me clarify my thoughts on bound/unbound media.
+
+<div class="Clog_Commentary_Wrap">
+<div class="Clog_Post_Text">
+
+All spokes and no hub - I love that. It’s also one of the truest, most insightful, and accurate statements I’ve read in a while.  The destination web is dying - at least for content producers.  I think I have pounded this drum before but I think it’s a point that needs pounding.
+
+The following is cut from an email exchange I had recently (in relation to <a href="http://www.poynter.org/column.asp?id=31&amp;aid=169361">this article</a>) - it outlines a misreading that I think most legacy publishers are caught in the throes of - namely the misreading of the bound to unbound media shift as a print to digital shift:
+
+—————-
+
+Thinking of the transition that’s underway as a shift from print to digital is dangerously misleading. This is more than a simple shift in output technology - it’s a slow yet dramatic rewiring of the information ecology in such a way that the previous command and control model becomes less effective and less profitable with each passing day.  In order to combat that traditional media companies should re-frame the transition.  Publishers need to stop thinking about managing a transition from print to digital media and start thinking about managing a transition from bound to unbound media.
+
+The primary implication of a shift from bound to unbound media is that previously precious publishing real estate no longer matters - at least not as much as it did in the past. Ink on paper, websites, forums, every space once controlled and parceled out for dramatic profit will steadily lose value as the transition continues.  Emerging tools will give readers (now also producers) the power to create their own spaces. As they become more sophisticated in the construction of their own media spaces media participants will look for content chunks - disembodied and unbound atoms of thought provoking and viscerally pleasing stimulation - that they can remix in a way that makes sense to them.  Publishers who can provide that - whether through RSS, XMPP, <a href="http://code.google.com/p/pubsubhubbub/">pubsubhubbub</a> or some other <a href="http://dashes.com/anil/2009/07/the-pushbutton-web-realtime-becomes-real.html">pushbutton technology</a> - will be extremely well positioned. With that in mind smart publishers should be experimenting with those types of technologies today and stop wasting their time creating Flash heavy, video laced, bound publications.
+
+</div>
+</div>
+<div class="Clog_Content_Outer"><!-- BEGIN_CLOG_CONTENT ID: AF973D02-253C-41BA-8B1A-6FA1B5B93318 CLOGS.CLIPMARKS.COM -->
+<div class="Clog_Top_Wrap">
+<div class="Clog_Source_First"><span>Clipped from <a title="http://www.steverubel.com/the-next-great-media-company-wont-have-a-web" rel="clipsource" href="http://www.steverubel.com/the-next-great-media-company-wont-have-a-web">www.steverubel.com</a></span></div>
+</div>
+<div class="Clog_Middle_Wrap">
+<blockquote class="Clog_Content_Item" cite="http://www.steverubel.com/the-next-great-media-company-wont-have-a-web">
+<table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>This has tremendous potential. Conceivably the next great media company will be all spokes and no hub. It will exist as a constellation of connected apps and widgets that live inside other sites and offer a full experience plus access to your social graph and robust community features. Each of these may interconnect too so that a media company’s community on Facebook can talk to the same on Twitter.
+
+<span class="Clog_Source_Button"><a title="http://www.steverubel.com/the-next-great-media-company-wont-have-a-web" rel="clipsource" href="http://www.steverubel.com/the-next-great-media-company-wont-have-a-web">Read more at www.steverubel.com</a></span></td>
+</tr>
+</tbody>
+</table>
+</blockquote>
+</div>
+<div class="Clog_Bottom_Wrap"></div>
+</div>

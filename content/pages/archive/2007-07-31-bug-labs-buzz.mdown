@@ -1,0 +1,14 @@
+Date: 2007-7-31
+Categories: old
+
+# bug labs buzz
+
+In <a href="2007/06/28/if-you-publish-a-magazine-you-should-read-this/">a recent essay</a> I gave the following advice to magazine publishers: "above all else study and know what's happening in the consumer electronics market. They are your new printer. The devices they are building are the going to be the way your work meets your readers in the digital world."
+
+Following my own advice I figured I'd post a little something here about a new company that has piqued my curiosity (as well as a few <a href="http://avc.blogs.com/a_vc/2007/07/bugslowly-co.html">other</a>, <a href="http://scobleizer.com/2007/07/31/open-source-hardware-dinner/">more notable</a>, <a href="http://www.scripting.com/stories/2007/07/30/bugLabsInitialReview.html">people</a>).  That company is called <a href="http://www.buglabs.net">bug labs</a> and they are doing something interesting with hardware. I'm still fuzzy on what EXACTLY this thing is, but I am already loving the buzz around it.  <a href="http://www.scripting.com/stories/2007/07/31/bugLabsDay2.html">Witness Dave Winer:</a>
+
+<blockquote>so maybe Bug will be a prototyping environment for more polished mobile devices, like future iPhones. As a user and a developer my creativity has been locked out of the mobile market because I don't have the requisite hardware skills. Podcasting is one art that would be further along if we had access to the design tools that designers at consumer electronics companies have. There certainly are others. Imagine the mobile devices doctors would create. Building contractors. Bus drivers. Musicians. Writers. Librarians.</blockquote>
+
+This is definitely one to watch. Find out more about bug labs and what they're up tos through their blog: <a href="http://www.bugblogger.com/">http://www.bugblogger.com/</a>
+
+UPDATE: <a href="http://www.bugblogger.com/2007/07/greetings-from-.html">This post</a> from Bug Labs CEO Peter Semmelhack does a nice job a laying out what the company's vision is... a vision that, as I said above, has me extremely interested.

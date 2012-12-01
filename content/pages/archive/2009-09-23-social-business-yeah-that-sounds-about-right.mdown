@@ -1,0 +1,40 @@
+Date: 2009-9-23
+Categories: old
+
+# Social Business; yeah, that sounds about right.
+
+<div class="Clog_Commentary_Wrap">
+<div class="Clog_Post_Text">
+
+Stowe Boyd is pushing for re-conceptualizing and (more expressly) re-naming what we commonly refer to as Enterprise 2.0 — and I couldn’t agree more. As anyone who is in the thick of this change can tell you there are a lot more layers to it than the tech layer.  Technology may indeed be the cause, but the sociological, anthropological, and cultural effects are without a doubt the intriguing plotlines in this story.
+
+</div>
+</div>
+<div class="Clog_Content_Outer"><!-- BEGIN_CLOG_CONTENT ID: 641A6FB6-C334-471B-8D1D-22A0ECC2151A CLOGS.CLIPMARKS.COM -->
+<div class="Clog_Top_Wrap">
+<div class="Clog_Source_First"><span>Clipped from <a title="http://www.stoweboyd.com/message/2009/09/getting-to-the-bottom-of-social-business.html" rel="clipsource" href="http://www.stoweboyd.com/message/2009/09/getting-to-the-bottom-of-social-business.html">www.stoweboyd.com</a></span></div>
+</div>
+<div class="Clog_Middle_Wrap">
+<blockquote class="Clog_Content_Item" cite="http://www.stoweboyd.com/message/2009/09/getting-to-the-bottom-of-social-business.html">
+<table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>Web 2.0 fits that bill reasonably well. It suggests that there was a preceding, Web 1.0 era, and that we learned and thought and fiddled, and then we consolidated all that into a new release: Web 2.0! And, it fits pretty well.</td>
+</tr>
+</tbody>
+</table>
+</blockquote>
+<blockquote class="Clog_Content_Item" cite="http://www.stoweboyd.com/message/2009/09/getting-to-the-bottom-of-social-business.html">
+<table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>But Enterprise 2.0 is nothing like that, or if it is, it is a conjecture about some future period of time. At the best, it represents the gradual adoption of Web 2.0 technologies into the nnterprise, which is slowly happening. But it does not really say anything about what sorts of changes in management and operations need to happen to leverage the possibilities arising from these new tools and techniques. So I have come to think that, in this context at least, 2.0ing is a trap. It suggests that we have crossed some defining boundary into a new way of doing things. But we haven’t. Companies are only now starting to take the first tentative steps toward a new basis for business.
+
+<span class="Clog_Source_Button"><a title="http://www.stoweboyd.com/message/2009/09/getting-to-the-bottom-of-social-business.html" rel="clipsource" href="http://www.stoweboyd.com/message/2009/09/getting-to-the-bottom-of-social-business.html">Read more at www.stoweboyd.com</a></span></td>
+</tr>
+</tbody>
+</table>
+</blockquote>
+</div>
+<div class="Clog_Bottom_Wrap"></div>
+</div>

@@ -1,0 +1,6 @@
+Date: 2009-1-17
+Categories: old
+
+# if you are reading this then i...
+
+if you are reading this then i was able to get ubiquity twitter posting to work.

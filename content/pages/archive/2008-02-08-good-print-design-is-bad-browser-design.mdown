@@ -1,0 +1,9 @@
+Date: 2008-2-8
+Categories: old
+
+# Good print design is bad browser design
+
+<p>Case in point: <a href="http://digital.spin.com/spin/200802/?u1=texterity">Spin Magazine has put it's entire February issue online</a> - without modification - as a digital magazine (<a href="http://texterity.com/">Texterity</a> seems to be the vendor used).  Guess what?  It is just as cumbersome, awkward, and user-hostile as most attempts at this kind of thing. </p>
+<p>What looks to be a wonderfully rich print design is cheapened in the browser by the inability to navigate the thing with any sort of grace.  Spin has shoved it's portrait oriented design into a landscape oriented window with the same mindless determination that a small child might repeatedly smash a square peg relentlessly into a round hole.  </p>
+<p>Once you get past that first "gee whizz that looks like a page turning" reaction you are left with precious little to chew on.  This one trick pony dies a slow death as the reader starts to realize that they are getting a thin and artificial approximation of another media experience instead of an authentic encounter with an organic and thoughtful presentation of editorial content.  A simulation instead of a revelation.  </p>
+<p>Please... for the love of God... when will somebody come along and make this format really work?</p>

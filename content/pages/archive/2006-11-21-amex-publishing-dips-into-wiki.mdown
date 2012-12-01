@@ -1,0 +1,12 @@
+Date: 2006-11-21
+Categories: old
+
+# AmEx Publishing Dips Into Wiki
+
+Here's one to watch... according to <a href="http://www.adage.com">Advertising Age</a>, <a href="http://www.amexpub.com/">American Express Publishing</a> is dipping it's little toe into the wild and wooly seas of <a href="http://en.wikipedia.org/wiki/Wiki">wiki</a> publishing.  It's an interesting move and it fits perfectly with what my personal vision of what twenty-first century publishing will look like, yet if the Ad Age article is any indication of what the suits at AmEx understand about the technology this story is just starting to get interesting.
+
+It seems that AmEx is operating under the assumption that design... making the interface pretty... can overcome whatever the perceived flaws of wiki based models are. From the <a href="http://adage.com/mediaworks/article.php?article_id=113406">Ad Age article:</a>
+<blockquote>"With the old wiki sites, every one was different and the rules of editing were different," said Mark Stanich, chief marketing officer, American Express Publishing Group. "If you were really intense you could get on there and go crazy but it wasn't really user friendly. This is really like using a word-processing tool. The ease of it to the consumer is important."</blockquote>
+OK... Stanich has a small point here.  The easier the wiki is to use the more content users will be able to contribute.  But it's a long jump from there to successfully harnessing the power of wiki in an ad based publishing model.  You have to wonder how much thought AmEx has given to the protocol of dealing with dissent, invective, vitriol, and other inappropriate uses of the wiki.  <a href="http://www.wikipedia.org">Wikipedia</a>, the most visible and successful implementation of the technology, thrives on a the community policing efforts of hyperactive users... can <a href="http://www.eskyguide.com/">Executive Travel SkyGuide</a> claim the same sort of rabid devotion among its readership? Is that level of involvement natural for a ad-based model?  Is it possible?
+
+Obviously it's too soon to tell how this will shake out, but I applaud AmEx for going there.  Somebody has to step up and start mixing editors, advertisers, and readers in the social stew... and with the right spices in the right amounts, we may have a tasty new publishing model.

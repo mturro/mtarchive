@@ -1,0 +1,12 @@
+Date: 2007-4-25
+Categories: old
+
+# ! 'Daily Lit: little shots of great literature'
+
+I just started reading <a href="http://en.wikipedia.org/wiki/Dubliners">Dubliners</a> by <a href="http://en.wikipedia.org/wiki/James_Joyce">James Joyce</a>... only I'm not reading it in the traditional way... I'm reading it via RSS.  After reading a post at <a href="http://www.lessig.org/blog/">Lawrence Lessig's blog</a> about his book <a href="http://www.free-culture.cc/">Free Culture</a> going up on <a href="http://www.dailylit.com">Daily Lit</a> I decided to follow the link and poke around the site for a while.
+
+For those who don't know <a href="http://dailylit.com">Daily Lit</a> takes books that are in the public domain and makes them available in bite size chunks delivered to you through email or RSS feed.  It's an interesting way to read a book.  The pacing can feel a bit over prescribed, but there's a handy link at the end of each installment to get the next one right away if you don't feel like waiting until tomorrow.
+
+Dubliners is set to come to me in 84 chunks delivered once a day for the next 84 weekdays.  I could set the options on the feed to slow down to a Monday-Wednesday-Friday delivery or speed up to daily installments if I so choose.
+
+Perhaps at some point in the future I'll get more into the implications of reading great literature (and Joyce in particular) in this way.  The critical theorist in may seems to think Joyce would've dug this.

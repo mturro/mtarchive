@@ -1,0 +1,6 @@
+Date: 2007-12-10
+Categories: old
+
+# Created new wp-cat and told tw...
+
+Created new wp-cat and told twitter tools to use that for tweets... let's  see if it gets it right.

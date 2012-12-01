@@ -1,0 +1,12 @@
+Date: 2007-2-27
+Categories: old
+
+# The Last.fm player brings streaming radio back
+
+Long time readers of this site will remember that for a period of time it lived as Bluepear Radio... a music intensive blog that utilized the <a href="http://live365.com">Live365 </a>streaming services to deliver carefully constructed playlists straight to the desktop.  For one reason or another (mainly financial... I got tired of paying the monthly fee) that ended.
+<!--more-->
+I recount my feelings about that whole time in <a href="http://mturro.bluepear.org/2006/11/08/starting-to-love-lastfm/">this post</a>.  Long story short I decided to put my musical time and effort into a free iTunes/last.fm combo.  Well friends that set-up is starting to bare fruit.  If you take a gander at the sidebar here on this site you'll notice the new last.fm radio player... embedded flash goodness.
+
+While this isn't quite the same thing as actually constructing playlists like I did at Live365 it is a nice jump back in that direction.  Since Last.fm has so much data on <a href="http://last.fm/user/mturro">my listening habits</a> (they pretty much know exactly what I'm playing in iTunes at any given moment) they are able to automatically create a "station" based on that data.  So what you hear when you push play over there in the sidebar is quite close to the music I actually have in my library and listen to on a daily basis.
+
+What's missing is any kind of fine grained control over segues, access to bands that I love and aren't in a licensing deal with last.fm, and customized sound effects or enhancements that might make it into a "hand-made" playlist.  I can live with that and I am... quite happily thus far.

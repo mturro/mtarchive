@@ -1,0 +1,6 @@
+Date: 2007-8-24
+Categories: old
+
+# ! '@steverubel - I have done some…'
+
+@steverubel - I have done something very similar at my site http://mturro.bluepear.org - using feedburner to handle complete rss.

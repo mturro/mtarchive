@@ -1,0 +1,6 @@
+Date: 2008-3-7
+Categories: old
+
+# ! '@winehook Welcome to twitter! ...'
+
+@winehook Welcome to twitter! Soon it will all be clear.

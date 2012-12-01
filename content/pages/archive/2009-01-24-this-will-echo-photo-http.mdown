@@ -1,0 +1,6 @@
+Date: 2009-1-24
+Categories: old
+
+# ! 'This will echo - Photo: http:/...'
+
+This will echo - Photo: <a href="http://bkite.com/040XP" rel="nofollow">http://bkite.com/040XP</a>
