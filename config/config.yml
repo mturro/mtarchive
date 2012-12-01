@@ -10,9 +10,9 @@ subtitle: "(or, how I got here)"
 #
 # http://www.atomenabled.org/developers/syndication/atom-format-spec.php#element.feed
 #
- author:
-   name: Michael Turro
-   uri: http://mturro.com
+# author:
+#   name: Michael Turro
+#   uri: http://mturro.com
 #   email: mturro@gmail.com
 
 # You can stick with the default look and feel, or use a theme. Themes are
