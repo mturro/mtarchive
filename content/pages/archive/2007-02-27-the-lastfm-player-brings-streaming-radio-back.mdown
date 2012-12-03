@@ -1,5 +1,5 @@
 Date: 2007-2-27
-Categories: old
+Categories: /archive
 
 # The Last.fm player brings streaming radio back
 

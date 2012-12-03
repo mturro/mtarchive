@@ -1,5 +1,5 @@
 Date: 2009-3-21
-Categories: old
+Categories: /archive
 
 # Playing around with Drupal - a...
 

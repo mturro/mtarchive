@@ -1,5 +1,5 @@
 Date: 2009-5-8
-Categories: old
+Categories: /archive
 
 # ! '@loic - When I restart Seesmic...'
 

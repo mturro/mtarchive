@@ -1,5 +1,5 @@
 Date: 2007-9-25
-Categories: old
+Categories: /archive
 
 # Imagining the Representation Engine, Part 1
 

@@ -1,5 +1,5 @@
 Date: 2008-12-15
-Categories: old
+Categories: /archive
 
 # Testing the Tweetie boomarklet...
 

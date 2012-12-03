@@ -1,5 +1,5 @@
 Date: 2008-3-7
-Categories: old
+Categories: /archive
 
 # ! '@winehook Welcome to twitter! ...'
 

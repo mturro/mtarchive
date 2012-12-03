@@ -1,5 +1,5 @@
 Date: 2009-3-20
-Categories: old
+Categories: /archive
 
 # An upgrade to the UBUNTU OS on...
 

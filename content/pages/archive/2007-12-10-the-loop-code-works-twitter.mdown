@@ -1,5 +1,5 @@
 Date: 2007-12-10
-Categories: old
+Categories: /archive
 
 # The loop code works... twitter...
 

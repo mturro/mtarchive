@@ -1,5 +1,5 @@
 Date: 2007-12-10
-Categories: old
+Categories: /archive
 
 # Created new wp-cat and told tw...
 
