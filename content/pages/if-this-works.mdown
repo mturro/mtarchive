@@ -2,4 +2,4 @@ Date: December 4, 2012
 
 # IF this works, frankly I'll be amazed.
 
-This post is simply a way for me to tell whether or not the post-receive hook at github is properly deploying to heroku. 
+This post is simply a way for me to tell whether or not the post-receive hook at github is properly deploying to heroku.  This time for real.
